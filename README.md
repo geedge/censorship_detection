@@ -2,7 +2,7 @@
 
  
 
-作者：Giuseppe Aceto1),Antonio Pescapé1) *
+作者：Giuseppe Aceto 1),Antonio Pescapé 1) *
 
     1): University of Naples Federico II | UNINA · Department of Electrical Engineering and Information Technology.
 
